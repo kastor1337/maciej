@@ -5,7 +5,7 @@
 int main()
 {
    int m, n, c, d, matrix[10][10], transpose[10][10];
- 
+   printf("npg");
    printf("Enter the number of rows and columns of matrix\n");
    scanf("%d%d", &m, &n);
  
