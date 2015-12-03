@@ -6,7 +6,7 @@ void merge(int [], int, int [], int, int []);
  
 int main() {
   int a[100], b[100], m, n, c, sorted[200];
- 
+  printf("lol");
   printf("Input number of elements in first array\n");
   scanf("%d", &m);
  
