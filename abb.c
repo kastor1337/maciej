@@ -5,7 +5,7 @@
 int main()
 {
    int m, n, c, d, first[10][10], second[10][10], difference[10][10];
- 
+   printf("npg");
    printf("Enter the number of rows and columns of matrix\n");
    scanf("%d%d", &m, &n);
    printf("Enter the elements of first matrix\n");
