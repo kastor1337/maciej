@@ -7,7 +7,7 @@ int check_prime(int);
 main()
 {
    int n, result;
- 
+   printf("npg");
    printf("Enter an integer to check whether it is prime or not.\n");
    scanf("%d",&n);
  
