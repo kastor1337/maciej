@@ -8,7 +8,7 @@ int main()
   printf("npg");
   printf("Enter number of rows\n");
   scanf("%d", &n);
- 
+  printf("npg");
   space = n - 1;
  
   for (k = 1; k <= n; k++)
